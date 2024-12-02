@@ -1,0 +1,17 @@
+{
+  "name": "ajs2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "d1": "tsx D1/index.ts",
+    "d2": "tsx D2/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tsx": "^4.19.2"
+  }
+}
