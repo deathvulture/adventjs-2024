@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "d1": "tsx D1/index.ts",
-    "d2": "tsx D2/index.ts"
+    "d2": "tsx D2/index.ts",
+    "d3": "tsx D3/index.ts",
+    "d4": "tsx D4/index.ts"
   },
   "author": "",
   "license": "ISC",
