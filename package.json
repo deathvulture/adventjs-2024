@@ -28,7 +28,14 @@
     "d21": "tsx D21/index.ts",
     "d22": "tsx D22/index.ts",
     "d23": "tsx D23/index.ts",
-    "d24": "tsx D24/index.ts"
+    "d24": "tsx D24/index.ts",
+    "d25": "tsx D25/index.ts",
+    "d26": "tsx D26/index.ts",
+    "d27": "tsx D27/index.ts",
+    "d28": "tsx D28/index.ts",
+    "d29": "tsx D29/index.ts",
+    "d30": "tsx D30/index.ts",
+    "d31": "tsx D31/index.ts"
   },
   "author": "",
   "license": "ISC",
